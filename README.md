@@ -45,3 +45,11 @@ The templates came from real projects:
 
 ## Use and licence
 Free to use and adapt under the [MIT licence](LICENSE).
+
+## Related projects
+Worked projects that use these documents:
+- [manual-testing-saucedemo](https://github.com/jahidulislamrihan26/manual-testing-saucedemo): test strategy, plan, 87 cases and 20 defect reports on a web shop.
+- [api-testing-newman-openapi](https://github.com/jahidulislamrihan26/api-testing-newman-openapi): API test suite built on an OpenAPI spec, proven by mutation testing.
+- [k6-performance-testing](https://github.com/jahidulislamrihan26/k6-performance-testing): load, stress and soak testing with SQL data checks.
+- [playwright-ui-automation-pom](https://github.com/jahidulislamrihan26/playwright-ui-automation-pom), [cypress-e2e-saucedemo](https://github.com/jahidulislamrihan26/cypress-e2e-saucedemo) and [selenium-pytest-saucedemo](https://github.com/jahidulislamrihan26/selenium-pytest-saucedemo): UI automation of the same site in three tools.
+- [sqa-portfolio](https://github.com/jahidulislamrihan26/sqa-portfolio): the hub that links everything.
