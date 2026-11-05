@@ -1,0 +1,4 @@
+ID,Requirement,Module,Title,Type,Priority,Preconditions,Test Data,Steps,Expected Result,Actual Result,Status,Defect,Evidence
+TC-001,REQ-01,Login,Login with valid credentials,Functional,Critical,Login page open,user1 / password,"1. Enter username 2. Enter password 3. Click Login",Home page opens,,Not Run,,
+TC-002,REQ-01,Login,Login is rejected with the wrong password,Negative,High,Login page open,user1 / wrong,"1. Enter username 2. Enter wrong password 3. Click Login",Error "Username and password do not match"; user stays on the login page,,Not Run,,
+TC-003,REQ-01,Login,Login with an empty password,Negative,Medium,Login page open,user1 / (empty),"1. Enter username 2. Leave password empty 3. Click Login","Error ""Password is required""",,Not Run,,

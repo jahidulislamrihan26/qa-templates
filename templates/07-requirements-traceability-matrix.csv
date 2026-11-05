@@ -1,0 +1,3 @@
+Requirement ID,Area,Requirement,Priority,Test Cases,Cases,Pass,Fail,Not Run,Coverage
+REQ-01,Authentication,"Users can log in with valid credentials; invalid, empty and locked accounts are rejected with a clear message.",High,"TC-001, TC-002, TC-003",3,0,0,3,Covered
+REQ-02,Session,"Pages require login; logout ends the session.",High,,0,0,0,0,GAP
